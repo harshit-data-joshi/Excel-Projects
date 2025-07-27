@@ -34,6 +34,10 @@ Welcome! This project is my **first interactive dashboard** built using Microsof
 ## 📁 File Included
 
 - `Dashboard.xlsx`: The main Excel file containing all visuals and filters
+- `Sample - Superstore.csv`: The fictional dataset used for this dashboard
+- `Top_Image.jpg`: The header image used in the dashboard interface
+
+Top_Image.jpg: The header image used in the dashboard interface
 
 ---
 
