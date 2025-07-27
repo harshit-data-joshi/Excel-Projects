@@ -37,8 +37,6 @@ Welcome! This project is my **first interactive dashboard** built using Microsof
 - `Sample - Superstore.csv`: The fictional dataset used for this dashboard
 - `Top_Image.jpg`: The header image used in the dashboard interface
 
-Top_Image.jpg: The header image used in the dashboard interface
-
 ---
 
 ## 📌 Tools Used
