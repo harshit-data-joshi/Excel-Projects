@@ -6,7 +6,7 @@ It continues to track sales, profit, and quantity sold across U.S. states from 2
 
 ---
 
-## 📊 Dashboard Features
+## 📊 Improvements Made
 
 - **KPI Cards:** Highlight key metrics like Total Sales, Total Profit, and YOY Growth with conditional formatting for quick interpretation.
 - **Visual Enhancements:**
